@@ -1,0 +1,6 @@
+People.csv : Employees mapped to department and division. The second name (family, given) is used as to map persons to publications in PubClassification.csv.
+MirrorDiva20160605.csv : Mirror of the DiVA state when the bibliometrics calculations were done.
+MirrorDiva20161002.csv : Mirror of the DiVA state today (same query used to create, but contains additional fields).
+PubClassification.csv : Classification of each publication according to the LnU bibliometric system, based on the "Norwegian model".
+WoSJournalListJan2016.csv : Journals listed by WoS. The journals in this list were added to the channels listed in https://dbh.nsd.uib.no/publiseringskanaler as Level 1 journals when the LnU bibliometrics calculations were done.
+ScopusSourcesMay2016.csv : Publication channels listed by Scopus.
